@@ -2,6 +2,6 @@
 
 ## TOOLS
 
-* Tool: ReactJS Detector => Xem Website nao dang su dụng React
-* Tool: React Developer Tools => 
+* Google Chrome Plugins: ReactJS Detector => Check which website is coded by React JS.
+* Google Chrome Plugins: React Developer Tools => Check and detect code inside by React JS.
  
